@@ -1,0 +1,31 @@
+.mb-3{
+    width: 400px;
+}
+.amount{
+    position: fixed !important;
+    top: 0 !important;
+    right: 0 !important;
+    background: #336600;
+    padding: 6px;
+    color: #fff;
+    font-size: 1.4em;
+}
+
+#container{
+    margin-top: 100px !important;
+}
+
+#link{
+    color: white;
+    text-decoration: none;
+}
+
+#link:hover{
+  color:white;
+}
+
+.modal-header, .modal-body, .modal-footer{
+    background-color: #262626;
+    color: white;
+    border-style: none;
+  }
